@@ -1,0 +1,9 @@
+{
+  "name": "Studenti Virtual Mentor",
+  "short_name": "SVM",
+  "description": "Një aplikacion për menaxhimin e studentëve dhe profesorëve.",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50"
+}
