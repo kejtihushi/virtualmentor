@@ -25,10 +25,6 @@ Për ta përdorur projektin lokalisht, ndiqni hapat e mëposhtëm:
 * Sistemin e login/logout
 * Gjenerimin e hash-eve dhe mekanizma bazë sigurie
 
-## Kontributet
-
-Ky repository mund të përdoret lirisht për qëllime mësimore dhe akademike. Kontributet janë të mirëpritura përmes fork dhe pull request.
-
 ## Siguria
 
 Rekomandohet që kredencialet e bazës së të dhënave të mos ruhen publikisht për arsye sigurie.
